@@ -9,4 +9,4 @@ artifacts:
   files:
     - index.html
     - appspec.yml
-    - install.sh
+    - installnginx.sh
