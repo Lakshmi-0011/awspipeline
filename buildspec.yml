@@ -7,6 +7,7 @@ phases:
 
 artifacts:
   files:
-    - 'index.html'
-    - 'appspec.yaml'
+    - index.html
+    - appspec.yaml
+    - install.sh
   discard-paths: yes
